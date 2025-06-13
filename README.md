@@ -1,16 +1,37 @@
-# dice_application
+# 🎲 Dice Application
 
-A new Flutter project.
+A simple and fun dice rolling app built with **Flutter** for Android, iOS, and Web.
 
-## Getting Started
+[![Made with Flutter](https://img.shields.io/badge/Made%20with-Flutter-02569B?logo=flutter&logoColor=white)](https://flutter.dev)  
+[![GitHub stars](https://img.shields.io/github/stars/Crealify/dice_application?style=social)](https://github.com/Crealify/dice_application)  
+[![GitHub forks](https://img.shields.io/github/forks/Crealify/dice_application?style=social)](https://github.com/Crealify/dice_application)  
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🔥 Project Overview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+The Dice Application lets users roll dice with smooth animations and random number generation.  
+Built with Flutter to demonstrate basic state management, UI design, and cross-platform support.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🎯 Features
+
+- 🎲 Roll dice with a tap  
+- 🎨 Clean, minimalist UI  
+- 📱 Works on Android, iOS, and Web  
+- ⚡ Fast and lightweight  
+- 🔄 Uses Stateful widgets to update UI dynamically
+
+---
+
+## 🛠️ Tech Stack
+
+| Category    | Tools & Frameworks            |
+|-------------|------------------------------|
+| Framework   | Flutter                      |
+| Language    | Dart                         |
+| Platforms   | Android, iOS, Web            |
+| Versioning  | Git, GitHub                  |
+
+---
